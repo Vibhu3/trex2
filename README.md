@@ -1,1 +1,2 @@
-# trex2
+# trex-Master
+The full t rex Game
